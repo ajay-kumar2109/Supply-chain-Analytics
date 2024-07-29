@@ -54,6 +54,7 @@ Product: Specific information about the ordered item including product name, pro
 Warehouse Inventory: Information on inventory management for each product name including monthly inventory, warehouse location, storage costs, order fulfillment
 
 ## Key Insights 
+
 **1 Profit & Costs :**
 The monthly profit typically ranges from 104,000 to 135,000 dollars. However, there was a noticeable decline in profit from October to December 2017, which requires further investigation due to potential data limitations.
 
@@ -89,11 +90,13 @@ Below are overstock and overstock products.
 Cleats
 Shop By Sport
 Toys
+
 **Under stock Product Category :**
 
 Indoor/ Outdoor Games
 Water Sports
 Fishing
+
 **3. Shipment Delay Analysis:**
 The average 61% of shipment delay across all orders. Notably, highest delay experiences are USA, France and Mexico.
 
