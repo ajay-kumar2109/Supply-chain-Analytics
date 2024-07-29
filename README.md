@@ -54,22 +54,56 @@ Product: Specific information about the ordered item including product name, pro
 Warehouse Inventory: Information on inventory management for each product name including monthly inventory, warehouse location, storage costs, order fulfillment
 
 ## Key Insights 
-**1 Profit & Cost :**
-* Most Profitable Product Department
-* Most Profitable Products
-* Goods with Highest Profit Margin
-* Highest Inventory Storage Cost
+**1 Profit & Costs :**
+The monthly profit typically ranges from 104,000 to 135,000 dollars. However, there was a noticeable decline in profit from October to December 2017, which requires further investigation due to potential data limitations.
 
-**2 Inventory Analysis :**
-* Supply Vs Demand
-* Overstock Product Category :
-* Under stock Product Category :
+**Most Profitable Product Department :**
 
-**3 Shipment Delay Analysis:**
+Fan Shop : generating approximately $50,000 in monthly profit.
+Other top-profit product departments include Apparel, Golf, and Footwear, which also incur the highest inventory expenses.
+Most Profitable Products :
 
-**4 Order Fulfillment Days:**
+Perfect Fitness Perfect Rip Deck
+Field & Stream Sportsman 16 Gun Fire Safe
+Nike Men’s Free 5.0+
+Goods with Highest Profit Margin :
 
-Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
+Hirzl Women’s Soffft Flex Golf Glove
+Under Armour Women’s Ignite PIP VI Slide
+O’Brien Men’s Neoprene Life Vest
+Highest Inventory Storage Cost :
+
+Highest Storage Cost Spends in Apparel department
+Other top-cost product departments include Golf and Fan Shop
+2. Inventory Analysis :
+There are some overstock products which basically increasing the storage cost and its demand is less.
+
+**Supply vs Demand :**
+
+Highest demanding product department is Fan Shop, but its supply(inventory) is compared to less.
+
+Below are overstock and overstock products.
+
+**Overstock Product Category :**
+
+Cleats
+Shop By Sport
+Toys
+**Under stock Product Category :**
+
+Indoor/ Outdoor Games
+Water Sports
+Fishing
+**3. Shipment Delay Analysis:**
+The average 61% of shipment delay across all orders. Notably, highest delay experiences are USA, France and Mexico.
+
+The period between January 2015 and May 2016 witnessed the greatest number of orders with delays.
+
+Interestingly, one of most profit margin products, Under Armour Women’s Ignite PIP VI Slide, is also products with the highest average Shipment delay.
+
+**4. Order Fulfillment Days:**
+Product categories Video Games, Crafts, and Women’s Clothing take 8.8, 7.1, and 6.9 (average) days, respectively, to fulfill their stock into the warehouse.
+
 
 ## Sugesstions 
 
