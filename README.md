@@ -63,22 +63,22 @@ The monthly profit typically ranges from 104,000 to 135,000 dollars. However, th
 Fan Shop : generating approximately $50,000 in monthly profit.
 Other top-profit product departments include Apparel, Golf, and Footwear, which also incur the highest inventory expenses.
 
-Most Profitable Products :
+**Most Profitable Products :**
 
-Perfect Fitness Perfect Rip Deck
-Field & Stream Sportsman 16 Gun Fire Safe
-Nike Men’s Free 5.0+
+1. Perfect Fitness Perfect Rip Deck
+2. . Field & Stream Sportsman 16 Gun Fire Safe
+3. . Nike Men’s Free 5.0+
 
-Goods with Highest Profit Margin :
+**Goods with Highest Profit Margin :**
 
-Hirzl Women’s Soffft Flex Golf Glove
-Under Armour Women’s Ignite PIP VI Slide
-O’Brien Men’s Neoprene Life Vest
+1. Hirzl Women’s Soffft Flex Golf Glove
+2. Under Armour Women’s Ignite PIP VI Slide
+3. O’Brien Men’s Neoprene Life Vest
 
-Highest Inventory Storage Cost :
+**Highest Inventory Storage Cost :**
 
-Highest Storage Cost Spends in Apparel department
-Other top-cost product departments include Golf and Fan Shop
+1. Highest Storage Cost Spends in Apparel department
+2. Other top-cost product departments include Golf and Fan Shop
 
 **2. Inventory Analysis :**
 There are some overstock products which basically increasing the storage cost and its demand is less.
