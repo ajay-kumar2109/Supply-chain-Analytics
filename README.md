@@ -1,11 +1,6 @@
 # Moving from Complexity to Clarity in Supply Chain
-![](https://github.com/poojapatel26/Supply-Chain-Analytics/blob/main/tableau_dashboard.png)
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
-
-**Blog Post** : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-08fe4f8eb2d2)
-
-**Tableau  Dashboard Link** :  [Here](https://public.tableau.com/app/profile/poojapatel26/viz/SupplyChainAnalytics_16964651727060/SupplyChainAnalytics)
 
 ## Project Description :
 The project provides a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
@@ -44,7 +39,6 @@ Overall story of Create an interactive dashboard to summarize the research of th
 ## Data Pre-Processing & Data Cleaning 
 
 The data pre-procesing and Data cleaning is done using Python. 
-Detailed Notebook : [Here](https://github.com/poojapatel26/Supply-Chain-Analytics/blob/main/Supply_Chain_Analytics.ipynb)
 
 ## Data Overview 
 The dataset provides three data tables including order_and_shipment, inventory and fulfillment. After examining the data fields, I noticed that the dataset generally represents the following key information
